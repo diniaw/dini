@@ -6,14 +6,17 @@
 ✨ fun fact: i love aesthetic dashboards hehe
 
 ### My Tech Stack:
-- Python 🐍
-- Pandas, Matplotlib, Scikit-learn 📊
-- HTML/CSS 🌐
-- Git & GitHub ⚙️
-
-### My Tech Stack 🌷✨
+**🖥️ Programming:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+**📊 Data & Visualization:**  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+**🛠️ Development Tools:**  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 📫 Reach me at: [https://www.linkedin.com/in/dini-aprilia-cahyani/] or [apriliadini206@gmail.com]
