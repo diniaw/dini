@@ -20,5 +20,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 📫 Reach me at: [https://www.linkedin.com/in/dini-aprilia-cahyani/] or [apriliadini206@gmail.com]
-
-![Badge](https://img.shields.io/badge/🍓-Strawberry_Coder-pink)
