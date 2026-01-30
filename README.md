@@ -19,4 +19,4 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-📫 Reach me at: [https://www.linkedin.com/in/dini-aprilia-cahyani/] or [apriliadini206@gmail.com]
+📫 Reach me at: [apriliadini206@gmail.com]
